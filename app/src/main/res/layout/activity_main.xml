@@ -47,4 +47,12 @@
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="122dp" />
 
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salir"
+        tools:layout_editor_absoluteX="150dp"
+        tools:layout_editor_absoluteY="405dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
